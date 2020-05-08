@@ -6,10 +6,10 @@
 
 
 Command Kelompok 1
-- rmdir
+- rmdir gatau fix atau kagak
 
 Command Kelompok 2
-- fold
+- fold  gatau fix atau kagak
 - chown
 
 Command Kelompok 3
