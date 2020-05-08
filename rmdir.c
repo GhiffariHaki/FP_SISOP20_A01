@@ -22,6 +22,7 @@ int isDirectory(char *s) {
 	return res;
 }
 
+//FUNGSI CEK FILE DALAM FOLDER
 int searchFile(char *s){
   int i, file=0, w=0, c=0, inword=0;
   int fd = open(s, O_RDONLY);
